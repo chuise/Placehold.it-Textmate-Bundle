@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;img src="http://placehold.it/${1:Width}x${2:Height}&amp;text=${3:${TM_SELECTED_TEXT}}" /&gt;
+</string>
+	<key>keyEquivalent</key>
+	<string>@P</string>
+	<key>name</key>
+	<string>Convert Text to Placeholder Image</string>
+	<key>uuid</key>
+	<string>0C5CE16D-0A44-4A36-8566-E3B60CBCDBD2</string>
+</dict>
+</plist>

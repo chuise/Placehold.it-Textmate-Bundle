@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Placehold.it</string>
+	<key>ordering</key>
+	<array>
+		<string>0C5CE16D-0A44-4A36-8566-E3B60CBCDBD2</string>
+		<string>7347345A-A697-40EB-A2F5-1BD961A3E18C</string>
+	</array>
+	<key>uuid</key>
+	<string>87C9C8A4-653C-490F-9F87-EE9352E98191</string>
+</dict>
+</plist>
